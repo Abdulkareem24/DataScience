@@ -1,4 +1,4 @@
-class Univariate():
+class univariate():
     def QuanQual():
         Quan=[]
         Qual=[]
